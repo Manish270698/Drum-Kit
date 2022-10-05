@@ -1,3 +1,3 @@
 # Drum-Kit
-A drum ki simulator.
+A drum kit simulator.
 Works using Javascript.
