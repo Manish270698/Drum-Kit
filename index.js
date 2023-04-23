@@ -52,7 +52,7 @@ function makeSound(key){
     kick.play();
     break;
 
-    default: console.log(buttonInnerHTML);
+    default: return null;
 
   }
 }
